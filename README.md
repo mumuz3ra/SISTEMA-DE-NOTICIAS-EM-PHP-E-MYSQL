@@ -49,3 +49,27 @@ $base_url = 'https://localhost/nerkodex';  //COM SSL
 ```
 
 ## FOTOS DO SISTEMA
+
+<!-- 01 -->
+![_01](https://github.com/user-attachments/assets/30266a3a-fcee-4f27-bd86-b8c5c89c5535)
+
+<!-- 02 -->
+![_02](https://github.com/user-attachments/assets/06e1f96a-6a15-4e94-8b17-902663322e8f)
+
+<!-- 03 -->
+![_03](https://github.com/user-attachments/assets/ea9c67b1-588f-4556-885c-2e18d1f239f2)
+
+<!-- 04 -->
+![_04](https://github.com/user-attachments/assets/06d0818b-6b02-46fc-81fa-311f226e2b05)
+
+<!-- 05 -->
+![_05](https://github.com/user-attachments/assets/d88ce3c2-0f48-436d-b81d-f1954025b199)
+
+<!-- 06 -->
+![_06](https://github.com/user-attachments/assets/56e06445-cd54-4f5e-827a-61c72e8f3352)
+
+<!-- 07 -->
+![_07](https://github.com/user-attachments/assets/85531a05-29c6-4f33-aa08-53df5602ac87)
+
+<!-- 08 -->
+![_08](https://github.com/user-attachments/assets/097cf6ba-a0c7-46fc-93bc-fb16f5352608)
